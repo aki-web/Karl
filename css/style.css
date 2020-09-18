@@ -1,0 +1,221 @@
+@charset "utf-8";
+
+/*共通*/
+#menu {
+    width: 1094px;
+    margin: 30px auto;
+    margin-top: 30px;
+    list-style: none;
+}
+
+#menu p {
+  width: 140px;
+  text-align: center;
+  display: inline-block;
+  margin: auto;
+}
+
+
+.about {
+  position: absolute;
+  left:220px;
+}
+
+.works {
+  position: absolute;
+  left:430px;
+}
+
+.gallery {
+  position: absolute;
+  left:580px;
+}
+
+.contact {
+  position: absolute;
+  left:760px;
+}
+
+#sns{
+  margin: 10px auto;
+  position: absolute;
+  top: 35px;
+  right: 0px;
+}
+
+.insta {
+  position: absolute;
+  right: 200px;
+}
+
+.twitter {
+  position: absolute;
+  right:160px;
+}
+
+.tiktok {
+  position: absolute;
+  right:120px;
+}
+
+.mail {
+  position: absolute;
+  right:80px;
+}
+/*共通*/
+
+/*top*/
+#info{
+  margin-top:30px;
+}
+/*top*/
+
+
+/*about*/
+#profile-text{
+  margin-top: 35px;
+  margin-left: 500px;
+  font-size: 20px;
+  text-align: left;
+}
+
+#profile-pic1{
+  position: absolute;
+  left:100px;
+  top:120px;
+}
+
+#profile-pic2{
+  position: absolute;
+  left:30px;
+  top:500px;
+}
+
+#profile-pic3{
+  position: absolute;
+  left:180px;
+  top:500px;
+}
+
+#profile-pic4{
+  position: absolute;
+  left:330px;
+  top:500px;
+}
+
+/*about*/
+
+/*contact*/
+#contacttext{
+margin-top: 150px;
+margin-left: 150px;
+}
+
+.mail-adress{
+  position: absolute;
+  left:120px;
+  top:350px;
+  font-size: 30px;
+}
+
+
+/*contact*/
+
+/*works*/
+#workwrap{
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #FFFF99;
+}
+
+#work-photo ul{
+  list-style: none;
+  text-align:left;
+}
+
+#work-photo ul li{
+  display: inline-block;
+  margin:5px 2px;
+}
+
+.worktitle{
+  font-size: 30px;
+  text-align: left;
+}
+
+.worktext{
+    font-size: 20px;
+}
+
+#worktext01{
+  position: absolute;
+  top: 250px;
+  left: 400px;
+}
+
+#worktext02{
+  position: absolute;
+  top: 590px;
+  left: 400px;
+}
+
+#worktext03{
+  position: absolute;
+  top: 930px;
+  left: 400px;
+}
+
+#worktext04{
+  position: absolute;
+  top: 1270px;
+  left: 400px;
+}
+
+#worktext05{
+  position: absolute;
+  top: 1610px;
+  left: 400px;
+}
+
+#worktext06{
+  position: absolute;
+  top: 1950px;
+  left: 400px;
+}
+
+#worktext07{
+  position: absolute;
+  top: 2290px;
+  left: 400px;
+}
+
+
+
+/*works*/
+
+
+/*gallery*/
+#photowrap{
+  background-color: #FFFF99;
+  padding: 30px;
+}
+
+#photo{
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #FFFF99;
+  padding-bottom: 300px;
+}
+
+#photo-inner ul{
+  list-style: none;
+  text-align:left;
+}
+
+#photo-inner ul li{
+  display: inline-block;
+  margin:5px 2px;
+}
+
+
+/*gallery*/
