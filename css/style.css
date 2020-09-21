@@ -5,6 +5,7 @@
     width: 1094px;
     margin: 30px auto;
     margin-top: 30px;
+    margin-left: 70px;
     list-style: none;
 }
 
@@ -39,34 +40,35 @@
 #sns{
   margin: 10px auto;
   position: absolute;
-  top: 35px;
+  top: 20px;
   right: 0px;
 }
 
 .insta {
   position: absolute;
-  right: 200px;
+  right: 300px;
 }
 
 .twitter {
   position: absolute;
-  right:160px;
+  right:260px;
 }
 
 .tiktok {
   position: absolute;
-  right:120px;
+  right:220px;
 }
 
 .mail {
   position: absolute;
-  right:80px;
+  right:180px;
 }
 /*共通*/
 
 /*top*/
 #info{
   margin-top:30px;
+  margin-left: 100px;
 }
 /*top*/
 
@@ -106,6 +108,12 @@
 /*about*/
 
 /*contact*/
+
+.contactback{
+    margin-top:30px;
+    margin-left: 100px;
+}
+
 #contacttext{
 margin-top: 150px;
 margin-left: 150px;
@@ -145,35 +153,36 @@ margin-left: 150px;
 
 .worktext{
     font-size: 20px;
+    margin-left: 30px;
 }
 
 #worktext01{
   position: absolute;
-  top: 250px;
+  top: 260px;
   left: 400px;
 }
 
 #worktext02{
   position: absolute;
-  top: 590px;
+  top: 670px;
   left: 400px;
 }
 
 #worktext03{
   position: absolute;
-  top: 930px;
+  top: 1080px;
   left: 400px;
 }
 
 #worktext04{
   position: absolute;
-  top: 1270px;
+  top: 1480px;
   left: 400px;
 }
 
 #worktext05{
   position: absolute;
-  top: 1610px;
+  top: 1900px;
   left: 400px;
 }
 
@@ -196,6 +205,8 @@ margin-left: 150px;
 
 /*gallery*/
 #photowrap{
+  margin-left: 50px;
+  margin-right: 50px;
   background-color: #FFFF99;
   padding: 30px;
 }
@@ -219,3 +230,10 @@ margin-left: 150px;
 
 
 /*gallery*/
+
+
+/*レスポンシブ*/
+
+
+
+/*レスポンシブ*/
